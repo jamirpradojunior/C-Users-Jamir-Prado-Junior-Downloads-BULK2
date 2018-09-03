@@ -4,3 +4,5 @@ download_espa_order.py -h
 git clone https://github.com/USGS-EROS/espa-bulk-downloader.git bulk-downloader
 cd bulk-downloader
 python ./download_espa_order.py -h
+--order 0101808296377
+
