@@ -1,6 +1,6 @@
 # C-Users-Jamir-Prado-Junior-Downloads-BULK2
 
-C:\Users\Jamir Prado Junior\Downloads\BULK2 download_espa_order.py -u jamirpradojunior
+C:\Python27\download_espa_order.py -d C:\Users\Jamir Prado Junior\Downloads\BULK2 -u jamirpradojunior -p Consultor28 o-0101808296379
 
 C:\Users\Jamir Prado Junior\Downloads\BULK2 download_espa_order.py
 
